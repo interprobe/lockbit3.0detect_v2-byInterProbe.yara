@@ -1,6 +1,6 @@
-rule LockBit3Detect_via_SectionPatterns {
+rule Lockbit3Detect_via_SectionPatterns {
     meta:
-        description = "Detects new LockBit 3.0 variants"
+        description = "Detects new Lockbit 3.0 variants"
         author = "InterProbe Malware-Vulnerability Research Team"
         date = "2022-07-04"
     strings:
